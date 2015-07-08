@@ -8,9 +8,12 @@ Complier: gcc-arm-none-eabi-4_9-2015q2, information from espruino
 Debug SWD: stlink-v2
 
 CMD:
+
+```
 #make
 #make flash
 #cutecom 
+```
 
 serial: 115200,8N1
 LED is GPIOB-12
